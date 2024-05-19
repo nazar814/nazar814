@@ -68,15 +68,15 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br> 
+<!-- <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nazar814&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nazar814&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
     <img alt="nazar814's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazar814&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     <img src = "profile-3d-contrib/profile-night-rainbow.svg">
 </p>
-</details>
+</details> -->
 
 <div align="center">
 <h2>
